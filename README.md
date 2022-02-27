@@ -29,6 +29,12 @@
    <li>
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="20"> <a href="https://www.instagram.com/emredemr_/" target="_blank"> @emredemr</a> 
    </li>
+  <li>
+      W3Blog: <a href="https://emredemir.w3spaces.com/" target="_blank"> Emre Demir</a> 
+   </li>
+  <li>
+      Site: <a href="https://roakgame.com/" target="_blank"> Roak Game</a> 
+   </li>
   </ul>
 
 <!---
