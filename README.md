@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/>
 </div
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graphusername=emredemrx&bg_color=121212&color=008c9e&line=8c8c8c&point=384fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <!---
 emredemrx/emredemrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
