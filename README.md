@@ -40,7 +40,7 @@
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=emredemrx&bg_color=1c1c1c&color=b0b0b0&line=3459a2&point=c7c7c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=emredemrx&bg_color=1c1c1c&color=b0b0b0&line=3459a2&point=c7c7c7&area=true&hide_border=true)](https://github.com/emredemrx)
 <!---
 emredemrx/emredemrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
