@@ -19,9 +19,6 @@
   <li>
       <strong>W3Kişisel:</strong> <a href="https://emredemir.w3spaces.com/" target="_blank"> Emre Demir</a> 
    </li>
-  <li>
-    <strong>Site:</strong> <a href="https://roakgame.com/" target="_blank"> Roak Game</a> 
-   </li>
   </ul>
   <hr/>
   
